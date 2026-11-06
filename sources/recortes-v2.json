@@ -1,0 +1,178 @@
+{
+  "sources": {
+    "nibio": "C:\\Users\\christianr\\Documents\\CVN\\EXPERIENCIA\\NIBIO_2018.pdf",
+    "ute": "C:\\Users\\christianr\\Documents\\CVN\\EXPERIENCIA\\Cert_trabajo_UTE.pdf",
+    "upm": "C:\\Users\\christianr\\Documents\\CVN\\TITULOS\\expediente_UPM.pdf",
+    "uide": "C:\\Users\\christianr\\Documents\\CVN\\CONGRESOS\\Conferencia IA 2023 UIDE.pdf",
+    "mutis": "C:\\Users\\christianr\\Downloads\\_a134.+v18.08.23+Diseño+de+un+Sistema+de+Control+de+Prótesis+Transfemoral+Basado+en+Redes+Neuronales+MUTIS-V3-04-09-2023-EstiloSantiago.pdf",
+    "priscila": "C:\\Users\\christianr\\Documents\\CATÓLICA\\formatos\\Doc_PriscilaG\\Trabajo_Titulación_GUARTATANGA_PRISCILA.pdf"
+  },
+  "crops": [
+    {
+      "asset": "logo-nibio.png",
+      "render": "nibio.png",
+      "crop_pixels": [
+        143,
+        40,
+        393,
+        133
+      ]
+    },
+    {
+      "asset": "logo-ute.png",
+      "render": "ute.png",
+      "crop_pixels": [
+        67,
+        44,
+        170,
+        126
+      ]
+    },
+    {
+      "asset": "logo-upm.png",
+      "render": "upm.png",
+      "crop_pixels": [
+        57,
+        22,
+        183,
+        129
+      ]
+    },
+    {
+      "asset": "logo-uide.png",
+      "render": "uide.png",
+      "crop_pixels": [
+        126,
+        94,
+        417,
+        232
+      ]
+    },
+    {
+      "asset": "logo-puce.png",
+      "render": "priscila.png",
+      "crop_pixels": [
+        362,
+        189,
+        527,
+        354
+      ]
+    },
+    {
+      "asset": "logo-umu.png",
+      "render": "umu-header.png",
+      "crop_pixels": [
+        80,
+        30,
+        516,
+        150
+      ]
+    },
+    {
+      "asset": "logo-uco.png",
+      "render": "uco-header.png",
+      "crop_pixels": [
+        443,
+        52,
+        580,
+        134
+      ]
+    },
+    {
+      "asset": "clip-mutis.png",
+      "render": "mutis.png",
+      "crop_pixels": [
+        71,
+        114,
+        822,
+        398
+      ]
+    },
+    {
+      "asset": "clip-priscila.png",
+      "render": "priscila.png",
+      "crop_pixels": [
+        107,
+        442,
+        795,
+        897
+      ]
+    },
+    {
+      "asset": "clip-bryan.png",
+      "render": "cv-23.png",
+      "crop_pixels": [
+        105,
+        230,
+        925,
+        466
+      ]
+    },
+    {
+      "asset": "clip-rehab.png",
+      "render": "cv-23.png",
+      "crop_pixels": [
+        105,
+        746,
+        925,
+        1004
+      ]
+    },
+    {
+      "asset": "clip-emg.png",
+      "render": "cv-24.png",
+      "crop_pixels": [
+        95,
+        614,
+        925,
+        850
+      ]
+    },
+    {
+      "asset": "clip-exo.png",
+      "render": "cv-24.png",
+      "crop_pixels": [
+        95,
+        862,
+        925,
+        1097
+      ]
+    },
+    {
+      "asset": "clip-wrist.png",
+      "render": "cv-24.png",
+      "crop_pixels": [
+        95,
+        1108,
+        925,
+        1177
+      ]
+    },
+    {
+      "asset": "clip-cells.png",
+      "render": "cv-24.png",
+      "crop_pixels": [
+        95,
+        373,
+        925,
+        603
+      ]
+    },
+    {
+      "asset": "clip-semh.png",
+      "render": "semh.png",
+      "crop_pixels": [
+        31,
+        29,
+        1200,
+        320
+      ]
+    }
+  ],
+  "other_sources": {
+    "umu": "Downloads/Resguardo_matricula_Y5596186_2026.pdf (solo logo)",
+    "uco": "Downloads/compromiso-doctoral2025_AdC+JMP_ILCG_signed.pdf (solo logo)",
+    "semh": "Desktop/semh2026/semh2026_manuscript.pdf",
+    "cv": "Documents/CVN/cv_CRA2020.pdf"
+  }
+}

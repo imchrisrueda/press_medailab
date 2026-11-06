@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#f8fafc",
+    "text": "#0f172a",
+    "mutedText": "#475569",
+    "accent": "#2563eb",
+    "border": "#e2e8f0"
+  },
+  "typography": {
+    "headingFont": "system-ui, -apple-system, sans-serif",
+    "bodyFont": "system-ui, -apple-system, sans-serif",
+    "codeFont": "monospace"
+  },
+  "spacing": {
+    "safeMargin": "48px",
+    "gap": "24px"
+  }
+}

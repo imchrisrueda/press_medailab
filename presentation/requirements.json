@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "1.0",
+  "projectId": "proj-1793983776580-yzw1m9",
+  "objective": "Presentar la trayectoria de Christian y su trabajo actual en agricultura digital, de forma visual e informal.",
+  "audience": "MEDAILAB, Universidad de Murcia",
+  "durationMinutes": 10,
+  "requiredTopics": [
+    "Life of Brian Chris",
+    "Mecatrónica: el punto de partida",
+    "Robótica y aprendizaje automático",
+    "Noruega: de la imagen al problema agrícola",
+    "Enseñar también cambió mi investigación",
+    "De ver a controlar: prótesis transfemorales",
+    "La docencia se convirtió en proyectos de asistencia",
+    "La IA también entró en salud",
+    "Las plantas conectan todo el recorrido",
+    "El problema está en el campo",
+    "DIGinvasive: ponerlo en el mapa",
+    "DIGITALWEEDS: mi proyecto actual",
+    "Cuatro objetivos",
+    "Primero, datos de campo",
+    "Que el procesamiento se pueda repetir",
+    "Qué señal buscar",
+    "Una alegría en SEMH2026",
+    "Sigo formándome: Córdoba y Murcia",
+    "Ahora, en Murcia",
+    "Continuará"
+  ],
+  "outputs": [
+    "web",
+    "pdf"
+  ],
+  "constraints": [
+    "Borrador visual amplio de 20 pantallas para recortar posteriormente",
+    "Título con Brian tachado; tono personal inspirado en comedia británica",
+    "Distinguir trabajo realizado y plan de TFM",
+    "Notas con atribuciones, fuentes y límites",
+    "Usar el diseño personal ya autorizado en la conversación"
+  ],
+  "unresolvedQuestions": [
+    "Ensayo real del ponente pendiente",
+    "Denominación oficial y diploma del premio SEMH2026 pendientes"
+  ]
+}

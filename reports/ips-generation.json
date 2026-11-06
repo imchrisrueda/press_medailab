@@ -1,0 +1,98 @@
+{
+  "slideCount": 20,
+  "plannedSeconds": 580,
+  "validation": {
+    "id": "val-1793986890020",
+    "projectId": "proj-1793983776580-yzw1m9",
+    "revision": "4647d7d63afeb96b4359c4f3a381ae12421b3c10dc1d2fbb98168cb2fabeb776",
+    "profile": "mvp",
+    "toolchain": {
+      "node": "v20.11.0",
+      "core": "0.1.0"
+    },
+    "inspected": [
+      {
+        "slideId": "chris-1",
+        "captureRef": "reports/captures/chris-1.png"
+      },
+      {
+        "slideId": "chris-2",
+        "captureRef": "reports/captures/chris-2.png"
+      },
+      {
+        "slideId": "chris-3",
+        "captureRef": "reports/captures/chris-3.png"
+      },
+      {
+        "slideId": "chris-4",
+        "captureRef": "reports/captures/chris-4.png"
+      },
+      {
+        "slideId": "chris-5",
+        "captureRef": "reports/captures/chris-5.png"
+      },
+      {
+        "slideId": "chris-6",
+        "captureRef": "reports/captures/chris-6.png"
+      },
+      {
+        "slideId": "chris-7",
+        "captureRef": "reports/captures/chris-7.png"
+      },
+      {
+        "slideId": "chris-8",
+        "captureRef": "reports/captures/chris-8.png"
+      },
+      {
+        "slideId": "chris-9",
+        "captureRef": "reports/captures/chris-9.png"
+      },
+      {
+        "slideId": "chris-10",
+        "captureRef": "reports/captures/chris-10.png"
+      },
+      {
+        "slideId": "chris-11",
+        "captureRef": "reports/captures/chris-11.png"
+      },
+      {
+        "slideId": "chris-12",
+        "captureRef": "reports/captures/chris-12.png"
+      },
+      {
+        "slideId": "chris-13",
+        "captureRef": "reports/captures/chris-13.png"
+      },
+      {
+        "slideId": "chris-14",
+        "captureRef": "reports/captures/chris-14.png"
+      },
+      {
+        "slideId": "chris-15",
+        "captureRef": "reports/captures/chris-15.png"
+      },
+      {
+        "slideId": "chris-16",
+        "captureRef": "reports/captures/chris-16.png"
+      },
+      {
+        "slideId": "chris-17",
+        "captureRef": "reports/captures/chris-17.png"
+      },
+      {
+        "slideId": "chris-18",
+        "captureRef": "reports/captures/chris-18.png"
+      },
+      {
+        "slideId": "chris-19",
+        "captureRef": "reports/captures/chris-19.png"
+      },
+      {
+        "slideId": "chris-20",
+        "captureRef": "reports/captures/chris-20.png"
+      }
+    ],
+    "findings": [],
+    "result": "pass"
+  }
+}

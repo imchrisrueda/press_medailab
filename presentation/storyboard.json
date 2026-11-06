@@ -1,0 +1,308 @@
+{
+  "schemaVersion": "1.0",
+  "projectId": "proj-1793983776580-yzw1m9",
+  "requirementsRevision": "4647d7d63afeb96b4359c4f3a381ae12421b3c10dc1d2fbb98168cb2fabeb776",
+  "slides": [
+    {
+      "slideId": "chris-1",
+      "purpose": "Life of Brian Chris",
+      "message": "Life of Brian Chris",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 20
+    },
+    {
+      "slideId": "chris-2",
+      "purpose": "Mecatrónica: el punto de partida",
+      "message": "Mecatrónica: el punto de partida",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 25
+    },
+    {
+      "slideId": "chris-3",
+      "purpose": "Robótica y aprendizaje automático",
+      "message": "Robótica y aprendizaje automático",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 25
+    },
+    {
+      "slideId": "chris-4",
+      "purpose": "Noruega: de la imagen al problema agrícola",
+      "message": "Noruega: de la imagen al problema agrícola",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 25
+    },
+    {
+      "slideId": "chris-5",
+      "purpose": "Enseñar también cambió mi investigación",
+      "message": "Enseñar también cambió mi investigación",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 30
+    },
+    {
+      "slideId": "chris-6",
+      "purpose": "De ver a controlar: prótesis transfemorales",
+      "message": "De ver a controlar: prótesis transfemorales",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 35
+    },
+    {
+      "slideId": "chris-7",
+      "purpose": "La docencia se convirtió en proyectos de asistencia",
+      "message": "La docencia se convirtió en proyectos de asistencia",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 35
+    },
+    {
+      "slideId": "chris-8",
+      "purpose": "La IA también entró en salud",
+      "message": "La IA también entró en salud",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 35
+    },
+    {
+      "slideId": "chris-9",
+      "purpose": "Las plantas conectan todo el recorrido",
+      "message": "Las plantas conectan todo el recorrido",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 20
+    },
+    {
+      "slideId": "chris-10",
+      "purpose": "El problema está en el campo",
+      "message": "El problema está en el campo",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 25
+    },
+    {
+      "slideId": "chris-11",
+      "purpose": "DIGinvasive: ponerlo en el mapa",
+      "message": "DIGinvasive: ponerlo en el mapa",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 40
+    },
+    {
+      "slideId": "chris-12",
+      "purpose": "DIGITALWEEDS: mi proyecto actual",
+      "message": "DIGITALWEEDS: mi proyecto actual",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 30
+    },
+    {
+      "slideId": "chris-13",
+      "purpose": "Cuatro objetivos",
+      "message": "Cuatro objetivos",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 35
+    },
+    {
+      "slideId": "chris-14",
+      "purpose": "Primero, datos de campo",
+      "message": "Primero, datos de campo",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 30
+    },
+    {
+      "slideId": "chris-15",
+      "purpose": "Que el procesamiento se pueda repetir",
+      "message": "Que el procesamiento se pueda repetir",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 30
+    },
+    {
+      "slideId": "chris-16",
+      "purpose": "Qué señal buscar",
+      "message": "Qué señal buscar",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 35
+    },
+    {
+      "slideId": "chris-17",
+      "purpose": "Una alegría en SEMH2026",
+      "message": "Una alegría en SEMH2026",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 20
+    },
+    {
+      "slideId": "chris-18",
+      "purpose": "Sigo formándome: Córdoba y Murcia",
+      "message": "Sigo formándome: Córdoba y Murcia",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 25
+    },
+    {
+      "slideId": "chris-19",
+      "purpose": "Ahora, en Murcia",
+      "message": "Ahora, en Murcia",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 45
+    },
+    {
+      "slideId": "chris-20",
+      "purpose": "Continuará",
+      "message": "Continuará",
+      "sourceIds": [
+        "cv",
+        "vault2026",
+        "memory2025",
+        "semh2026",
+        "user",
+        "photos"
+      ],
+      "assetIds": [],
+      "estimatedSeconds": 15
+    }
+  ],
+  "unresolvedItems": []
+}

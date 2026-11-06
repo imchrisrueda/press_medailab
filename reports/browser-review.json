@@ -1,0 +1,301 @@
+{
+  "errors": [],
+  "slides": [
+    {
+      "mode": "light",
+      "n": 1,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 2,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 3,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 4,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 5,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 6,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 7,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 8,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 9,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 10,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 11,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 12,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 13,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 14,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 15,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 16,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 17,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 18,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 19,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "light",
+      "n": 20,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 1,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 2,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 3,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 4,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 5,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 6,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 7,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 8,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 9,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 10,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 11,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 12,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 13,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 14,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 15,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 16,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 17,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 18,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 19,
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "mode": "dark",
+      "n": 20,
+      "overflow": [],
+      "broken": []
+    }
+  ],
+  "interactions": [
+    {
+      "vp": {
+        "width": 1280,
+        "height": 720
+      },
+      "mode": "light",
+      "indexFits": true,
+      "selection": true,
+      "notes": true,
+      "end": true,
+      "next": true
+    },
+    {
+      "vp": {
+        "width": 1280,
+        "height": 720
+      },
+      "mode": "dark",
+      "indexFits": true,
+      "selection": true,
+      "notes": true,
+      "end": true,
+      "next": true
+    },
+    {
+      "vp": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "light",
+      "indexFits": true,
+      "selection": true,
+      "notes": true,
+      "end": true,
+      "next": true
+    },
+    {
+      "vp": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "dark",
+      "indexFits": true,
+      "selection": true,
+      "notes": true,
+      "end": true,
+      "next": true
+    }
+  ],
+  "network": "file:// delivery, assets embedded; no external service required",
+  "clippingZoom": {
+    "opens": true,
+    "closes": true,
+    "preservesSlide": true
+  }
+}

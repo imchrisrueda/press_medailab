@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "projectId": "proj-1793983776580-yzw1m9",
+  "title": "Life of Brian Chris: Robótica, IA y Agricultura Digital",
+  "language": "es",
+  "aspectRatio": "16/9",
+  "engine": {
+    "id": "slidev",
+    "version": "0.49.29"
+  },
+  "designRef": "scientific-minimal",
+  "artifacts": {
+    "manifest": "project.json",
+    "slidesDir": "slides",
+    "dataDir": "data",
+    "assetsDir": "assets",
+    "reportsDir": "reports",
+    "outputsDir": "outputs",
+    "requirements": "requirements.json",
+    "storyboard": "storyboard.json",
+    "entry": "slides.md",
+    "dependencyIndex": "dependency-index.json",
+    "slides": "slides",
+    "themeTokens": "theme-tokens.json",
+    "styles": "style.css",
+    "globalTop": "global-top.vue",
+    "validationReport": "reports/validation-report.json"
+  },
+  "toolchain": {
+    "node": "v20.11.0",
+    "core": "0.1.0"
+  }
+}

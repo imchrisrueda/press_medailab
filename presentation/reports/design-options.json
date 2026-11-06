@@ -1,0 +1,38 @@
+{
+  "proposals": [
+    {
+      "id": "prop-scientific-minimal",
+      "designId": "scientific-minimal",
+      "designVersion": "1.0.0",
+      "family": "Scientific Minimal",
+      "overrides": {},
+      "score": 85,
+      "rationale": "Rigor metodológico, figuras de alto contraste sobre fondo blanco y máxima legibilidad.",
+      "previews": [
+        "templates/previews/scientific-minimal-cover.png",
+        "templates/previews/scientific-minimal-dense.png",
+        "templates/previews/scientific-minimal-chart.png"
+      ],
+      "limitations": [
+        "Animaciones Manim pesadas se presentan como póster estático en PDF"
+      ]
+    },
+    {
+      "id": "prop-academic-graduate",
+      "designId": "academic-graduate",
+      "designVersion": "1.0.0",
+      "family": "Academic Graduate",
+      "overrides": {},
+      "score": 70,
+      "rationale": "Especializado en docencia de posgrado y seminarios avanzados: derivaciones analíticas formales en KaTeX, cajas de teorema y rigor matemático.",
+      "previews": [
+        "templates/previews/academic-graduate-cover.png",
+        "templates/previews/academic-graduate-dense.png",
+        "templates/previews/academic-graduate-chart.png"
+      ],
+      "limitations": [
+        "Animaciones Manim pesadas se presentan como póster estático en PDF"
+      ]
+    }
+  ]
+}
