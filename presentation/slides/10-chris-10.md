@@ -3,7 +3,7 @@ layout: default
 title: "El problema está en el campo"
 ---
 
-<div class="chris-page photo-full">
+<div class="chris-page photo-full right-photo maize">
 <img class="photo" src="../assets/field-maize.jpg" alt="Vegetación y una planta emergente entre maíz"/><div class="photo-caption"><p class="eyebrow">MALAS HIERBAS INVASORAS</p><h1>¿Qué planta es?<br/><em>¿Dónde está?</em></h1></div>
 <div class="page-meta"><span>El problema</span><span>10 / 20</span></div>
 </div>

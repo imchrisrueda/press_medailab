@@ -10,9 +10,9 @@ Fuente: Conversación del ponente; ilustración generada y prompt en assets.
 
 ## 2. Mecatrónica: el punto de partida · 25 s
 
-Mi punto de partida es la ingeniería mecatrónica en Ecuador. Me interesaba cómo hacer que una máquina percibiera lo que ocurre y actuara sobre ello. Y las plantas aparecieron pronto: mi trabajo de fin de carrera consistió en un sistema de identificación de cultivos y malezas mediante visión artificial. Así que la agricultura no es una incorporación reciente a esta historia.
+La mecatrónica integra mecánica, electrónica, informática y control. Su valor está en la sinergia: diseñar el conjunto para que perciba, procese información y actúe. Mi trabajo de grado aplicó la visión artificial a cultivos y malezas. El esquema es una elaboración propia en español.
 
-Fuente: CV aportado, p. 4: titulación UTE 21/09/2016.
+Fuente: CV aportado, p. 4: titulación UTE 21/09/2016. Referencia conceptual consultada: https://commons.wikimedia.org/wiki/File:MechatronicsDiagram.svg; esquema original, no reproducción de la imagen.
 
 ## 3. Robótica y aprendizaje automático · 25 s
 
@@ -22,9 +22,9 @@ Fuente: CV, pp. 2–4; foto original reutilizada de SEMH2026, assets/results/dds
 
 ## 4. Noruega: de la imagen al problema agrícola · 25 s
 
-Colaboré con NIBIO, en Noruega, como investigador visitante en julio–agosto de 2018, en ForEff, y como investigador asociado entre octubre de 2019 y agosto de 2020, en Grasision. Apliqué visión por computador a problemas agrarios: segmentación de vegetación, análisis de imágenes de pastos y desarrollo de una aplicación de análisis. Esa etapa conecta la formación en robótica con el contexto agrícola. Las fechas corresponden a los vínculos investigadores; no implican residencia continuada durante todo el periodo.
+Colaboré con NIBIO, en Noruega, como investigador visitante en julio–agosto de 2018, en ForEff, y como investigador asociado entre octubre de 2019 y agosto de 2020, en Grasision. Apliqué visión por computador a problemas agrarios: segmentación de vegetación, análisis de imágenes de pastos y desarrollo de una aplicación de análisis. Esa etapa conecta la formación en robótica con el contexto agrícola. Las fechas corresponden a los vínculos investigadores; no implican residencia continuada durante todo el periodo. El recorte editorial resume un artículo publicado en Precision Agriculture el 23/06/2026 (DOI 10.1007/s11119-026-10399-6), con Christian entre los coautores. Documenta aplicaciones posteriores de Grasision; no atribuye el ensayo de 2022–2024 a la estancia de 2019–2020. No es una captura de pantalla de la revista.
 
-Fuente: CV pp. 2–3; base factual 2026, experiencia NIBIO; logo recortado del certificado NIBIO_2018.pdf.
+Fuente: CV pp. 2–3; base factual 2026, experiencia NIBIO; logo recortado del certificado NIBIO_2018.pdf. https://link.springer.com/article/10.1007/s11119-026-10399-6
 
 ## 5. Enseñar también cambió mi investigación · 30 s
 
@@ -82,27 +82,27 @@ Fuente: Memoria DIGITALWEEDS 2025, objetivos O.1–O.4, pp. PDF 12–13.
 
 ## 14. Primero, datos de campo · 30 s
 
-Una parte importante del trabajo ha sido construir la base experimental: ensayos, vuelos, sensores y referencias de campo. En 2026 constan vuelos en Cataluña, en Alguaire y Vilasaña, y una campaña en Albelda con el CITA de Aragón. A ello se suman la normalización fenológica y el análisis de los datos. La fotografía es aportada por mí como contexto de adquisición; no afirmo que corresponda a esas campañas concretas.
+Esta fotografía corresponde al experimento controlado de la finca experimental La Poveda, como confirma el ponente. En DIGITALWEEDS construimos una base de imágenes y referencias para estudiar las especies. Además hemos realizado vuelos en parcelas comerciales en Huesca y Lleida. Los ensayos controlados y las parcelas comerciales aportan contextos complementarios para el desarrollo de las herramientas.
 
 Fuente: Obsidian: detalle junio–septiembre 2026 y campaña CITA Albelda. Foto src/DSC_0147.JPG.
 
 ## 15. Que el procesamiento se pueda repetir · 30 s
 
-Después del vuelo empieza una parte menos vistosa, pero esencial: conseguir un procesamiento reproducible. He trabajado en revisión de coordenadas, alturas, puntos de control y ajustes fotogramétricos; en protocolos de comparación Metashape y PIX4Dmapper; y en automatización parcial con Orthomation y Palmeri. No presento un ganador entre programas ni una automatización completa validada. El avance es hacer explícito y comprobable lo que ocurre entre las imágenes y los productos finales.
+Después del vuelo empieza una parte menos vistosa, pero esencial: conseguir un procesamiento reproducible. He trabajado en revisión de coordenadas, alturas, puntos de control y ajustes fotogramétricos; en protocolos de comparación Metashape y PIX4Dmapper; y en automatización parcial con Orthomation y Palmeri. No presento un ganador entre programas ni una automatización completa validada. El avance es hacer explícito y comprobable lo que ocurre entre las imágenes y los productos finales. En DIGITALWEEDS, este trabajo prepara la base geomática necesaria para el objetivo de detección y cartografía. Es la conexión entre los vuelos y los futuros mapas de malas hierbas.
 
 Fuente: Obsidian: revisión ortomosaicos 2026; comparación 20/09/2026; Palmeri/Orthomation.
 
 ## 16. Qué señal buscar · 35 s
 
-En SEMH2026 presenté el trabajo sobre información espectral para distinguir Amaranthus palmeri, hybridus y retroflexus. La idea que quiero destacar aquí es que importa qué información medimos y en qué momento observamos. Los resultados foliares orientan la investigación posterior en imágenes. No son por sí solos la validación de un detector de campo: la separabilidad espectral y la exactitud de clasificación son cosas diferentes.
+En SEMH2026 presenté el trabajo sobre información espectral para distinguir Amaranthus palmeri, hybridus y retroflexus. La idea que quiero destacar aquí es que importa qué información medimos y en qué momento observamos. Los resultados foliares orientan la investigación posterior en imágenes. No son por sí solos la validación de un detector de campo: la separabilidad espectral y la exactitud de clasificación son cosas diferentes. Su vínculo con DIGITALWEEDS es orientar qué información espectral y qué momentos de observación pueden ser útiles para diferenciar especies. Es una base experimental para la detección posterior, no un detector de campo ya validado. Animación original SEMH: mostrar las fotografías de 17, 24 y 34 DDS; al primer avance se reducen y aparecen las firmas alineadas debajo. El siguiente avance pasa de diapositiva. DDS = días después de la siembra. Las fotografías son del ensayo original.
 
-Fuente: SEMH2026: contenido y guion oral; figura firmas-light/dark.svg de la presentación original. No confundir campaña 2026 con datos del ensayo presentado.
+Fuente: SEMH2026: contenido y guion oral; figura firmas-light/dark.svg de la presentación original. No confundir campaña 2026 con datos del ensayo presentado. Fotos y secuencia recuperadas de SEMH2026, slide 06, assets/results/dds_17.jpg, dds_24.jpg y dds_34.jpg.
 
 ## 17. Una alegría en SEMH2026 · 20 s
 
-Este año presenté ese trabajo en SEMH2026 y recibí el premio al mejor trabajo presentado. Fue una alegría y una buena ocasión para compartir la investigación con la comunidad de malherbología. Lo menciono también como reconocimiento a un trabajo de equipo. La denominación utilizada aquí es la que he confirmado en esta conversación; el diploma y el nombre oficial completo quedan pendientes de incorporar. Es distinto del premio al mejor póster de EWRS 2025.
+En EWRS 2025 recibí el premio al mejor póster por el trabajo de inteligencia geoespacial para el manejo de Amaranthus palmeri en España. El boletín SEMh documenta el premio y aquí se muestra el póster. En SEMH2026 recibí el premio al mejor trabajo presentado, según mi confirmación, y se muestra el recorte que he aportado. Son trabajos de equipo. El recorte SEMH contiene una discrepancia entre el título español y el inglés; se conserva sin alterar y se usa el título español confirmado por el ponente.
 
-Fuente: Confirmación expresa del ponente en la conversación. Sin imagen de diploma disponible.
+Fuente: Evidencias Momentum 094_PREM_EWRS_2025.pdf y 096_POST_EWRS_2025.pdf; assets/articulo_semh2026.png aportado por el usuario. Premio SEMH confirmado en conversación.
 
 ## 18. Sigo formándome: Córdoba y Murcia · 25 s
 

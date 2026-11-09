@@ -1,0 +1,6 @@
+import {slides as original} from './story-v4.mjs';
+export const slides=structuredClone(original);
+const s=slides[15];
+s.body=s.body.replace(/<img class="chart light-only"[\s\S]*?<p class="image-note">/,`<div class="signal-sequence" aria-label="Origen de las firmas espectrales"><div class="signal-plants">${[17,24,34].map(n=>`<figure><img src="../assets/signal-dds-${n}.jpg" alt="Fotografía original del ensayo a ${n} días después de la siembra"/><figcaption>${n} DDS</figcaption></figure>`).join('')}</div><div class="signal-curves"><img class="light-only" src="../assets/spectra-light.svg" alt="Firmas foliares medias de las tres especies a 17, 24 y 34 DDS"/><img class="dark-only" src="../assets/spectra-dark.svg" alt="Firmas foliares medias en modo oscuro"/></div><button class="signal-reveal" type="button">Ver las firmas ↓</button></div><p class="image-note">`);
+s.notes+=' Animación original SEMH: mostrar las fotografías de 17, 24 y 34 DDS; al primer avance se reducen y aparecen las firmas alineadas debajo. El siguiente avance pasa de diapositiva. DDS = días después de la siembra. Las fotografías son del ensayo original.';
+s.source+=' Fotos y secuencia recuperadas de SEMH2026, slide 06, assets/results/dds_17.jpg, dds_24.jpg y dds_34.jpg.';

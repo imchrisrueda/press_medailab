@@ -1,7 +1,7 @@
 import {slides as original} from './story-v1.mjs';
 const s=structuredClone(original);
 const pic=(file,alt,cls='')=>`<img class="${cls}" src="../assets/${file}" alt="${alt}"/>`;
-const logo=(id,name,country)=>`<div class="institution">${pic('logo-'+id+(id==='inia'?'.svg':'.png'),name)}<span>${name}<small>${country}</small></span></div>`;
+const logo=(id,name,country)=>`<div class="institution">${pic(id==='inia'?'logo-inia.svg':id==='umu'?'logo-umu.png':id==='uco'?'logo-uco.png':`logos-user/${id==='upm'?'upm-etsii':id}.png`,name)}<span>${name}<small>${country}</small></span></div>`;
 const head=(k,h)=>`<header class="story-head"><p class="eyebrow">${k}</p><h1>${h}</h1></header>`;
 const headlines={rehab:'Rehabilitación de cadera y rodilla',emg:'Clasificación de señales EMG',exo:'Control neuronal de un exoesqueleto',wrist:'Monitoreo de adultos mayores',priscila:'Enfermedades ocupacionales',bryan:'Bioequivalencia de metformina',cells:'Conteo celular en placas tumorales'};
 const clip=(file,label,cls='')=>`<figure class="clipping ${cls}" tabindex="0" role="button" aria-label="Ampliar recorte: ${label}">${headlines[file]?`<h3>${headlines[file]}</h3>`:''}${pic('clip-'+file+'.png',label)}<figcaption>${label}</figcaption></figure>`;

@@ -3,8 +3,8 @@ layout: default
 title: "Ahora, en Murcia"
 ---
 
-<div class="chris-page murcia">
-<div class="copy"><p class="eyebrow">MEDAILAB · UNIVERSIDAD DE MURCIA · ESPAÑA</p><h1>Lo que quiero explorar<br/><em>aquí, con vosotros.</em></h1><div class="steps"><p><b>Clasificador</b><span>Tres especies de Amaranthus</span></p><p><b>Generación sintética</b><span>Filtrado por umbrales</span></p><p><b>Evaluación experta</b><span>Comprobar qué imágenes sirven</span></p></div><p class="small-line">Plan de trabajo · resultados por evaluar</p></div><div class="murcia-logo"><div class="institution"><img class="" src="../assets/logo-umu.png" alt="Universidad de Murcia"/><span>Universidad de Murcia<small>España</small></span></div></div>
+<div class="chris-page abstract-new">
+<header class="story-head"><p class="eyebrow">MEDAILAB · TFM DE IA · PLAN DE TRABAJO</p><h1>Generar no basta:<br/><em>hay que seleccionar y evaluar.</em></h1></header><img class="tfm-schematic light-only" src="../assets/tfm-diagram-light.svg" alt="Diagrama del plan de generación, filtrado y evaluación de imágenes sintéticas"/><img class="tfm-schematic dark-only" src="../assets/tfm-diagram-dark.svg" alt="Diagrama del TFM en modo oscuro"/><p class="bridge-line">Imágenes ilustrativas generadas con IA · no son datos ni resultados del TFM.<br/>Fase opcional: reentrenar con las aprobadas y evaluar la mejora.</p>
 <div class="page-meta"><span>MEDAILAB / UMU</span><span>19 / 20</span></div>
 </div>
 

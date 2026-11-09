@@ -1,3 +1,14 @@
+## Revisión v3 completada
+
+- [x] Seis logos aportados, con tamaño común.
+- [x] Mecatrónica: control, informática, electrónica, mecánica y sinergia; esquema propio con referencia consultada en Commons.
+- [x] Paleta común y numeración solo a la derecha.
+- [x] Reencuadres 9/10 y fondo transparente del logo INIA-CSIC.
+- [x] La Poveda identificada según el ponente.
+- [x] Conexión de geomática y espectros con DIGITALWEEDS.
+- [x] Premio EWRS respaldado por evidencia 094, póster 096 y recorte SEMH del usuario.
+- [x] Esquema visual del TFM en Murcia.
+
 # Revisión actual · v2 · 20 diapositivas
 
 La revisión del 6 de noviembre amplía formación y experiencia, incorpora logos y países, añade recortes auténticos ampliables y refuerza el contraste. Tiempo previsto: **9:40**; pendiente de ensayo. Esta revisión sustituye el estado anterior de 18 diapositivas que se conserva debajo como historial.

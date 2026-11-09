@@ -3,7 +3,7 @@ layout: default
 title: "Las plantas conectan todo el recorrido"
 ---
 
-<div class="chris-page photo-full">
+<div class="chris-page photo-full right-photo team">
 <img class="photo" src="../assets/team-drone.jpg" alt="Preparación de un dron en equipo"/><div class="photo-caption"><p class="eyebrow">VISIÓN + SENSORES + IA → AGRICULTURA DIGITAL</p><h1>No era un giro<br/><em>tan inesperado.</em></h1></div><div class="photo-affiliation"><div class="institution"><img class="" src="../assets/logo-inia.svg" alt="INIA–CSIC · desde 2024"/><span>INIA–CSIC · desde 2024<small>España</small></span></div></div>
 <div class="page-meta"><span>Agricultura digital</span><span>09 / 20</span></div>
 </div>

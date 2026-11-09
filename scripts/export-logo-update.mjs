@@ -1,0 +1,11 @@
+﻿import fs from 'node:fs/promises';
+import {pathToFileURL} from 'node:url';
+const {chromium}=await import(pathToFileURL('C:/Users/christianr/Desktop/semh2026/presentation/ips_runtime/node_modules/playwright/index.mjs'));
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const page=await browser.newPage({viewport:{width:1280,height:720}});
+await page.goto(pathToFileURL('C:/Users/christianr/Desktop/press_medailab/outputs/life-of-chris.html').href);
+await page.evaluate(()=>{show(17);return document.fonts.ready});
+await page.screenshot({path:'reports/slide18-murcia-updated.png'});
+console.log(await page.locator('.offline-slide.active img').evaluateAll(imgs=>imgs.map(i=>({alt:i.alt,loaded:i.complete&&i.naturalWidth>0}))));
+await page.pdf({path:'outputs/life-of-chris.pdf',printBackground:true,preferCSSPageSize:true});
+await browser.close();
